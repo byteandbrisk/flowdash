@@ -60,10 +60,10 @@ export default function SocialIntegrations() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6 drop-shadow-[0_2px_10px_rgba(0,0,0,0.3)]">
             Powerful Integrations
           </h2>
-          <p className="text-xl text-blue-100 max-w-3xl mx-auto">
+          <p className="text-xl text-white/90 max-w-3xl mx-auto drop-shadow-[0_1px_4px_rgba(0,0,0,0.2)]">
             Connect with your favorite platforms and centralize all your analytics data
           </p>
         </motion.div>
