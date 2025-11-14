@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flowdash.vercel.app/sitemap.xml
